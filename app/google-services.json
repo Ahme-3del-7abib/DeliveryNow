@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764125539168",
+    "project_id": "personal-projects-17de9",
+    "storage_bucket": "personal-projects-17de9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764125539168:android:228fe500f27a7bb5d44c05",
+        "android_client_info": {
+          "package_name": "com.ahmed.a.habib.deliverynow.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764125539168-4rb97opup5cm7v0h0tuh3v5j6n45r44b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlYDryio9pHrKZAp5Wx0dLAQjEGOpQNqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764125539168-4rb97opup5cm7v0h0tuh3v5j6n45r44b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
